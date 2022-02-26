@@ -1,5 +1,6 @@
 # fav_quotes
 inspirational/meaningful quotes/paraphrase that I like
+
 grammar errors may appear
 
 #### 1. I do not fear computers, I fear the lack of them. 
