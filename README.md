@@ -20,3 +20,6 @@ grammar errors may appear
 #### 7. Train enough hours so that my brain will compute things on its own even though I'm not physically doing anything.
 #### 8. If I'm doing crazy things (like weird sleep schedules) and it doesn't bring me stress and I work well with it, then that's fine. The mind is a powerful thing.
 ###### Devon Larratt: Arm Wrestling | Lex Fridman Podcast #265
+
+#### 9. My goal in coversation is to understand the human being before me, no matter who they are or what their position is.
+###### Lex Fridman, before interviewing Mark Zuckerberg.
