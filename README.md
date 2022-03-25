@@ -23,3 +23,7 @@ grammar errors may appear
 
 #### 9. My goal in coversation is to understand the human being before me, no matter who they are or what their position is.
 ###### Lex Fridman, before interviewing Mark Zuckerberg.
+
+#### 10. I don't care what anything was designed to do, I care about what it can do.
+###### Lock Picking Lawyer quoted Gene Kranz during his keynote presentation for SAINTCON
+
