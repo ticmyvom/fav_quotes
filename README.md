@@ -27,3 +27,6 @@ grammar errors may appear
 #### 10. I don't care what anything was designed to do, I care about what it can do.
 ###### Lock Picking Lawyer quoted Gene Kranz during his keynote presentation for SAINTCON
 
+#### 11. To learn more, check out these reasonable (but, alas, outdated) books[BC05,G04]. We encourage you to read them on your own, as we can only provide the merest drop from what is an ocean of complexity. But, you’ve got to start somewhere. What is any ocean, but a multitude of drops? [M04]
+###### Operating Systems: Three Easy Pieces
+
