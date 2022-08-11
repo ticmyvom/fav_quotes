@@ -30,3 +30,5 @@ grammar errors may appear
 #### 11. To learn more, check out these reasonable (but, alas, outdated) books[BC05,G04]. We encourage you to read them on your own, as we can only provide the merest drop from what is an ocean of complexity. But, you’ve got to start somewhere. What is any ocean, but a multitude of drops? [M04]
 ###### Operating Systems: Three Easy Pieces
 
+#### 12. Struggles are opportunities to grow.
+###### Julia, July 2022
