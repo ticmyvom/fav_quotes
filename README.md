@@ -1,7 +1,5 @@
 # fav_quotes
-inspirational/meaningful quotes/paraphrase that I like
-
-grammar errors may appear
+inspirational and meaningful quotes/paraphrase that I like
 
 #### 1. I do not fear computers, I fear the lack of them. 
 ###### First seen: cyberskyline: cryptography gym
@@ -32,3 +30,10 @@ grammar errors may appear
 
 #### 12. Struggles are opportunities to grow.
 ###### Julia, July 2022
+
+#### 13. Work hard, get smart.
+#### 14. Enjoy the journey, celebrate the destination.
+###### ThePrimeagen, on Lex Fridman's podcast #461
+
+#### 15. Stop looking for your passion and meaning. Look around right where you are, and see what needs to be done.
+###### Andrew Huberman's podcast with Dr. Anna Lembke: Understanding & Treating Addiction
